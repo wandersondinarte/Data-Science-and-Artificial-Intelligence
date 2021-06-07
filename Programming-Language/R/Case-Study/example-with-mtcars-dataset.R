@@ -15,7 +15,7 @@ head(mtcars)
 tail(mtcars)
 
 #Summarize the data
-sumary(data)
+summary(data)
 
 #Count the lines instances
 nrow(data)
