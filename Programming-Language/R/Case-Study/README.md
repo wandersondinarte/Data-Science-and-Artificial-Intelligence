@@ -1,10 +1,10 @@
-# Case Study - Example with mtcars dataset
+# Case Study
 
 ##### Author: Wanderson Dinarte Ribeiro
 ##### Software: RStudio Version 1.4.1717
 ##### Date: 06-06-2021
 
-
+# Example with mtcars dataset
 
 Loading dataset mtcars
 ```R
@@ -77,3 +77,6 @@ barplot(
   cex.names = 0.75
 )
 ```
+
+Bar plot result\
+![alt text](https://raw.githubusercontent.com/wrib/Data-Science-and-Artificial-Intelligence/main/Programming-Language/R/Case-Study/barplot-cylinders.png "Number of Cylinder per car")
